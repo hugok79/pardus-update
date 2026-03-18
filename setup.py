@@ -41,7 +41,6 @@ data_files = [
                   ["ui/MainWindow.glade"]),
                  ("/usr/share/pardus/pardus-update/src",
                   ["src/AutoAptUpdate.py",
-                   "src/AutoAptUpgrade.py",
                    "src/Group.py",
                    "src/Main.py",
                    "src/MainWindow.py",
