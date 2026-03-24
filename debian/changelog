@@ -1,3 +1,9 @@
+pardus-update (0.6.5) unstable; urgency=medium
+
+  * Add update, upgrade in progress controls to monitoring action
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Tue, 24 Mar 2026 23:12:33 +0300
+
 pardus-update (0.6.4) unstable; urgency=medium
 
   * Add argv int control to SystemSettingsWrite
