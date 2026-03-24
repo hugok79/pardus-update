@@ -1,3 +1,10 @@
+pardus-update (0.6.4) unstable; urgency=medium
+
+  * Add argv int control to SystemSettingsWrite
+  * Rm old unused autoupgrade funcs
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Tue, 24 Mar 2026 14:15:19 +0300
+
 pardus-update (0.6.3) unstable; urgency=medium
 
   [ Büşra ÇAĞLIYAN ]
